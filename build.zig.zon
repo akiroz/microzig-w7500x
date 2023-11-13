@@ -1,0 +1,10 @@
+.{
+    .name = "microzig-w7500x",
+    .version = "0.0.0",
+    .dependencies = .{
+        .microzig = .{
+            .url = "https://github.com/ZigEmbeddedGroup/microzig/archive/f8a506ccc28447ff6f20bba13ad04e7ce8d26318.tar.gz",
+            .hash = "12209d58d008c9cd79daf0b9a78e316cabe6c210a9f367d03c1c9ab18f0b50541248",
+        },
+    },
+}
